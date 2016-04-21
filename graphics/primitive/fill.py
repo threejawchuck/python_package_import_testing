@@ -31,6 +31,7 @@ def hello_fill_and_jpg ():
    # from graphics.formats import jpg
 
    # instead, i'll use a relative path import
+   # notice that we don't put ../formats or ..\formats, just ..formats
    from ..formats import jpg
 
    ############################

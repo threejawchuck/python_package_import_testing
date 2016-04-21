@@ -1,0 +1,1 @@
+print "inside graphics/formats/__init__.py"
